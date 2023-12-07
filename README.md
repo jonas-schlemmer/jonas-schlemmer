@@ -1,8 +1,8 @@
 ## Welcome to my GitHub profile!
 
 <div align="center" style="display: inline_block">
-    <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=jonasschlemmer&theme=default&include_all_commits=true&hide_border=true"/>
-    <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasschlemmer&theme=default&langs_count=4&layout=compact&hide_border=true"/>
+    <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=jonas-schlemmer&theme=default&include_all_commits=true&hide_border=true"/>
+    <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-schlemmer&theme=default&langs_count=4&layout=compact&hide_border=true"/>
 </div>
 
 <br>
