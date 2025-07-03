@@ -1,4 +1,4 @@
-🌐 [Português](LEIAME.md) | [English](README.md)
+# 🌐 Versão em [Português](LEIAME.md) | [English](README.md)
 
 ## 👋🏻 Introduction
 - 💻 Estudante de Programação
@@ -7,10 +7,10 @@
 
 ## 👨‍💻 Techs
 
-j
+
 ## 📫 Contacts
 <a href="https://www.linkedin.com/in/jonas-schlemmer" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+	<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/jonas-schlemmer" target="_blank">
@@ -41,10 +41,7 @@ Estou em transição para a área de desenvolvimento, com foco em [tecnologias q
 - Automatizações e scripts úteis no dia a dia de TI
 
 💡 Gosto de transformar problemas técnicos em soluções práticas e funcionais.
-
-📫 Fale comigo:
-- [LinkedIn](https://linkedin.com/in/seuusuario)
-- Email: seu@email.com
+#
 
 # Nome do Projeto
 
