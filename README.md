@@ -1,20 +1,30 @@
-##
+📄 Leia em: [Português](LEIAME.md) | [English](README.md)
 
-##
+## 💼 Introduction
+- 💻 Estudante de Programação
+- 🌱 Apaixonado por Tecnologia
+- 🎓 Cursando [Nome do Curso / Instituição]
 
-
-
-
-
-
-
+## 👨‍💻 Techs
 
 
+## 📫 Contacts
+<a href="https://www.linkedin.com/in/jonas-schlemmer" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/jonas-schlemmer" target="_blank">
+	<img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
+</a>
 
 
 
 
 
+
+
+
+<br><br><br><br><br><br><br><br><br>
 <!-- https://github.com/Ileriayo/markdown-badges -->
 ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
