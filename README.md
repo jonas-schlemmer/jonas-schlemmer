@@ -1,13 +1,13 @@
 📄 Leia em: [Português](LEIAME.md) | [English](README.md)
 
-## 💼 Introduction
+## 👋🏻 Introduction
 - 💻 Estudante de Programação
 - 🌱 Apaixonado por Tecnologia
 - 🎓 Cursando [Nome do Curso / Instituição]
 
 ## 👨‍💻 Techs
 
-
+j
 ## 📫 Contacts
 <a href="https://www.linkedin.com/in/jonas-schlemmer" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
