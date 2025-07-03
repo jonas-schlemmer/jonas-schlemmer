@@ -1,4 +1,4 @@
-📄 Leia em: [Português](LEIAME.md) | [English](README.md)
+🌐 [Português](LEIAME.md) | [English](README.md)
 
 ## 👋🏻 Introduction
 - 💻 Estudante de Programação
@@ -24,7 +24,7 @@ Atualmente atuo como Analista de TI com foco em suporte a usuários, onde desenv
 
 Estou em transição para a área de desenvolvimento, com foco em [tecnologias que você usa], e tenho trabalhado em projetos pessoais para acelerar essa mudança.
 
-🌐 [English version here](README.en.md)
+ [English version here](README.en.md)
 
 
 # 👋 Olá! Eu sou [Seu Nome]
