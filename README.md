@@ -15,10 +15,8 @@
 
 # 📫 Contato
 <div align="center">
+	<a href="https://linkedin.com/in/jonas-schlemmer" target="_blank" style="text-decoration: none;">
     	<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-    	<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-    	<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-	<a href="https://linkedin.com/in/jonas-schlemmer" target="_blank">
   	</a>
   	<a href="mailto:jonas.schlemmer@gmail.com" target="_blank">
     	<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
