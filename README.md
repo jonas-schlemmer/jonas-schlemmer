@@ -14,7 +14,7 @@
 </div>
 
 # 📫 Contato
-<div align="center">
+<div align="center" style="text-decoration: none;">
 	<a href="https://linkedin.com/in/jonas-schlemmer" target="_blank" style="text-decoration: none;">
 		<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 	</a>
