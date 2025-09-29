@@ -1,8 +1,8 @@
 ###### 🌐 [English](README.en.md)
 
 # 👱🏻 Sobre
-<p>🎯 Atualmente atuo como Analista de TI com foco em suporte técnico a usuários.</p>
-<p>🚀 Estou em transição para a área de desenvolvimento, com foco inicial em projetos pessoais para acelerar essa mudança.</p>
+<p>🎯 Atualmente, trabalho como Analista de TI, atuando principalmente com suporte técnico a usuários.</p>
+<p>🚀 Estou em transição para a área de desenvolvimento de software, dedicando-me a projetos pessoais para adquirir experiência prática e consolidar minha mudança de carreira.</p>
 
 # 💻 Tecnologias
 <div align="center">
