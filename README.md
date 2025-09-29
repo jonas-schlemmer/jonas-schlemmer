@@ -16,12 +16,13 @@
 # 📫 Contato
 <div align="center">
 	<a href="https://linkedin.com/in/jonas-schlemmer" target="_blank">
-		<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 1rem;"/>
+		<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 	</a>
+	&nbsp;
 	<a href="mailto:jonas.schlemmer@gmail.com" target="_blank">
-		<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 1rem;"/>
+		<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 	</a>
 	<a href="https://wa.me/5551991779002/?text=Olá!%20Te%20encontrei%20no%20GitHub!" target="_blank">
-		<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="margin: 1rem;"/>
+		<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 	</a>
 </div>
