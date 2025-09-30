@@ -1,12 +1,12 @@
 ###### 🌐 [English](README.en.md)
-<br>
+<br/>
 ## 💻 Projetos
 (EM CONSTRUÇÃO)
-<br>
+<br/>
 ## 🧑🏼‍💻 Sobre
 <p>🎯 Atualmente, trabalho como Analista de TI, atuando principalmente com suporte técnico a usuários.</p>
 <p>🚀 Estou em transição para a área de desenvolvimento de software, dedicando-me a projetos pessoais para adquirir experiência prática e consolidar minha mudança de carreira.</p>
-<br>
+<br/>
 ## 🛠️ Tecnologias
 <div align="center">
 	<img alt="Markdown" src="https://img.shields.io/badge/Markdown-%2312100E.svg?&style=for-the-badge&logo=Markdown&logoColor=white"/>
@@ -15,7 +15,7 @@
   	<img alt="CSS3" src="https://img.shields.io/badge/CSS3-%2312100E.svg?&style=for-the-badge&logo=CSS&logoColor=white"/>
   	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%2312100E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
 </div>
-<br>
+<br/>
 ## 📫 Contato
 <div align="center">
 	<a href="https://linkedin.com/in/jonas-schlemmer" target="_blank">
