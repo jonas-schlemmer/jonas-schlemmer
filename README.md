@@ -3,21 +3,21 @@
 ## 💻 Projetos
 <table align="center">
 	<tr>
-    	<td align="center">
-      		<a href="https://jonas-schlemmer.github.io/tecknum" target="_blank">
-        		<img alt="Projeto Tecknum" src="https://jonas-schlemmer.github.io/tecknum/images/logo.png" width="100" height="100">
-        		<br>
-        		<b>Tecknum</b>
-     		</a>
-    	</td>
-		<td align="center">
-      		<a href="https://jonas-schlemmer.github.io/google-glass" target="_blank">
-        		<img alt="Projeto Google Glass" src="https://jonas-schlemmer.github.io/google-glass/images/glass-black-small.png" width="100" height="100">
-        		<br>
-        		<b>Google Glass</b>
-     		</a>
-    	</td>
-  	</tr>
+		<td align="center" style="text-align: center;">
+			<a href="https://jonas-schlemmer.github.io/tecknum" target="_blank">
+				<img alt="Projeto Tecknum" src="https://jonas-schlemmer.github.io/tecknum/images/logo.png" width="100" height="100">
+      		</a>
+      		<br>
+      		<b>Tecknum</b>
+		</td>
+		<td align="center" style="text-align: center;">
+			<a href="https://jonas-schlemmer.github.io/google-glass" target="_blank">
+				<img alt="Projeto Google Glass" src="https://jonas-schlemmer.github.io/google-glass/images/logo.png" width="100" height="100">
+      		</a>
+      		<br>
+      		<b>Google Glass</b>
+		</td>
+	</tr>
 </table>
 
 ## 🛠️ Tecnologias
